@@ -4,15 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Santorini
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's known for its stunning sunsets, white-washed buildings with blue domes, and breathtaking views of the caldera, a large volcanic crater. The island offers a mix of history, culture, and natural beauty, making it a popular destination for tourists. Visitors can explore ancient ruins, relax on unique black sand beaches, and enjoy delicious Greek cuisine. Santorini is also famous for its wine, produced from grapes grown in the island's volcanic soil. Whether you're interested in adventure, relaxation, or cultural experiences, Santorini has something to offer for everyone.
 
 ## Header 2
 
@@ -22,20 +16,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
@@ -49,18 +29,6 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
 
 ### Here is an unordered list:
 
@@ -95,10 +63,6 @@ end
 ### Small image
 
 ![Octocat](./IMG_5829.jpeg)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
