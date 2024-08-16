@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./santorini.html).
+[Link to another page](./santorini.md).
 
 There should be whitespace between paragraphs.
 
