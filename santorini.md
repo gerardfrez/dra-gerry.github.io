@@ -6,22 +6,20 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Santorini
 
-Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's known for its stunning sunsets, white-washed buildings with blue domes, and breathtaking views of the caldera, a large volcanic crater. The island offers a mix of history, culture, and natural beauty, making it a popular destination for tourists. Visitors can explore ancient ruins, relax on unique black sand beaches, and enjoy delicious Greek cuisine. Santorini is also famous for its wine, produced from grapes grown in the island's volcanic soil. Whether you're interested in adventure, relaxation, or cultural experiences, Santorini has something to offer for everyone.
+Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's known for its stunning sunsets, white-washed buildings with blue domes, and breathtaking views of the caldera, a large volcanic crater. The island offers a mix of history, culture, and natural beauty, making it a popular destination for tourists. Visitors can explore ancient ruins, relax on unique black sand beaches, and enjoy delicious Greek cuisine. Santorini is also famous for its wine, produced from grapes grown in the island's volcanic soil. 
 
-## Header 2
+## Stunning sunset
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> My photo of a beautiful sunset and just in time for my fav cruise ship X Celebrity (did a cruise in Scandinavia & Asia which I will so a blog soon)
+> Santorini is full of outdoor setting clubs and I took this in one of them
+> Every golden hour, the sunset is different as shown below
+![Octocat](./IMG_5829.jpeg) ![Octocat](./IMG_5829.jpeg)
 
-### Header 3
+## White-washed building with blue domes
 
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> My photo of a beautiful sunset and just in time for my fav cruise ship X Celebrity (did a cruise in Scandinavia & Asia which I will so a blog soon)
+> Santorini is full of outdoor setting clubs and I took this in one of them
+> Every golden hour, the sunset is different as shown below
 
 ##### Header 5
 
@@ -29,40 +27,6 @@ Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's 
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](./IMG_5829.jpeg)
 
 
 ### Definition lists can be used with HTML syntax.
