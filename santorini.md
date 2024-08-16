@@ -20,8 +20,8 @@ Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's 
 > Buildings are painted using limestone that is why they look pristine white.
 > There are really not many blue domes as shown in the photos below
 > These places are full of people especially during sunset
-![Octocat](./IMG_5829.jpeg)
-![Octocat](./IMG_5829.jpeg)
+![Octocat](./IMG_6973(1).jpeg)
+![Octocat](./IMG_6992(1).jpeg)
 
 ## Breathtaking views of the caldera (large volcanic crater)
 
