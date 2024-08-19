@@ -1,9 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 # Santorini
 
 Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's known for its stunning sunsets, white-washed buildings with blue domes, and breathtaking views of the caldera, a large volcanic crater. The island offers a mix of history, culture, and natural beauty, making it a popular destination for tourists. Visitors can explore ancient ruins, relax on unique black sand beaches, and enjoy delicious Greek cuisine. Santorini is also famous for its wine, produced from grapes grown in the island's volcanic soil. 
