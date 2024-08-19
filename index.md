@@ -1,37 +1,19 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-There should be whitespace between paragraphs.
+# Welcome to my travel blog
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Just want to share some highlights of my travels. These are candid & informal captures of my thoughts & photos which may interest you & give you a bit of information about places & other things during my travel
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Places that I travelled (from latest)
 
 
-
-# Header 1
-
-1.  [Santorini](./santorini.md).
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1. [Santorini](./paris2024.md).
+2. [Santorini](./santorini.md).
+3. [Athens](./athens.md).
+4. [Dubrovnik](./Dubrovnik.md).
+5. [More to come]
 
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
+End of page. Thanks.
 ```
