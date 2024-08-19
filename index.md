@@ -7,7 +7,7 @@ Just want to share some highlights of my travels. These are candid & informal ca
 # Places that I travelled (from latest)
 
 
-1. [Santorini](./paris2024.md).
+1. [Paris2024](./paris2024.md).
 2. [Santorini](./santorini.md).
 3. [Athens](./athens.md).
 4. [Dubrovnik](./Dubrovnik.md).
