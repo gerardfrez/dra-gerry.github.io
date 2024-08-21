@@ -9,6 +9,11 @@ What's unique with the opening ceremony is it was done along the Seine river whe
 ![open1](./open1.jpeg)
 ![openFra](./openFra.jpeg)
 
+## Where's Lady Gaga?
+
+The show is a consolidation of live, pre-recorded acts as well as multimedia sequenced to show France's culture, fashion & lifestyle which was smartly connected & presented in big screens along the river.
+> These stairs that we saw was empty but Gaga was singing in the big screens :(
+![gaga](./gaga.jpeg)
 
 ```
 End of page
