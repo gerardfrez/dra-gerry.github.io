@@ -28,7 +28,6 @@ Overall the olympics was organised but not many volunteers compared to Sydney an
 > The Eiffel tower in all its glory
 ![eifle1](./eifel1.jpeg)
 ![eifle2](./eifel2.jpeg)
-![video](./IMG_5553.mov)
 
 ```
 End of page
