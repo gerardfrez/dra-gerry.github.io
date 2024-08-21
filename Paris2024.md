@@ -4,10 +4,10 @@ The Paris 2024 Olympics featured an exciting opening ceremony with athletes para
 
 ## The wet & long opening ceremony
 
-My photo of a beautiful sunset and just in time for my fav cruise ship Celebrity X (I did a cruise in Scandinavia & Asia in it and  I will so do a blog soon). Santorini is full of outdoor setting clubs which showcase the sunsets and I took this from one of them. Every golden hour ie. 8:20pm for this photo,  the sunset is always different every time.
-> TIP: Avoid the popular sunset lookout. Recommendation is to go to a restaurant for a few drinks before the sunset
-![Octocat](./IMG_5829.jpeg) 
-
+What's unique with the opening ceremony is it was done along the Seine river where the athletes are on boats passing by. The problem is because of too many moving parts, the only way to maintain the script or story line is through the big screens.
+> Australia & France teams passing our location where we were standing for 5 hours, wet with loud speakers & a distant big screen. It was a different kind of experience compared to Sydney 2000.
+![open1](./open1.jpeg)
+![openFra](./openFra.jpeg)
 
 
 ```
