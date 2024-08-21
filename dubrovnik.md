@@ -1,14 +1,19 @@
 # Dubrovnik
 
-The Paris 2024 Olympics featured an exciting opening ceremony with athletes parading on boats along the Seine River. The Games feature over 300 events, including swimming, basketball, tennis, gymnastics, and track. Notable athletes include Leon Marchand, Teddy Riner, Simone Biles, and Katie Ledecky. The Australian team excelled in various events, with notable achievements in swimming, athletics, and cycling.
+Dubrovnik, often called the “Pearl of the Adriatic,” is a stunning city located on the southern coast of Croatia along the Adriatic Sea. Known for its well-preserved medieval architecture and fortified old town, Dubrovnik is a UNESCO World Heritage.
 
-## The wet & long opening ceremony
 
-What's unique with the opening ceremony is it was done along the Seine river where the athletes are on boats passing by. The problem is because of too many moving parts, the only way to maintain the script or story line is through the big screens.
-> Australia & France teams passing our location where we were standing for 5 hours, wet with loud speakers & a distant big screen. It was a different kind of experience compared to Sydney 2000.
-![open1](./open1.jpeg)
-![openFra](./openFra.jpeg)
+## The stunning old town
 
+Dubrovnik’s old town is famous for its beautiful churches, palaces, and the impressive city walls that offer breathtaking views of the sea.
+> It’s also known for being a filming location for the TV series “Game of Thrones,” where it represented the fictional city of King’s Landing. It is a "must" that walk around the wall of the city and the following photos I got shows how beautiful this place is.
+![nik1](./nik1.jpeg)
+![nik1](./nik2.jpeg)
+![nik1](./nik3.jpeg)
+![nik1](./nik4.jpeg)
+![nik1](./nik5.jpeg)
+![nik1](./nik6.jpeg)
+![nik1](./nik7.jpeg)
 
 ```
 End of page but pls click your browser's back buttom to see more
