@@ -24,10 +24,14 @@ Overall the olympics was organised but not many volunteers compared to Sydney an
 ![hockey](./hockey.jpeg)
 
 ## The different moods of the Tower
-..
 > The Eiffel tower in all its glory
 ![eifle2](./eifel2.jpeg)
 ![eifle3](./eifel3.jpeg)
+
+## The flying cauldron
+> The cauldron does not really have fire but incorporates 40 LED spotlights to illuminate the cloud created by 200 high-pressure misting nozzles.
+![coul1](./couldron.jpeg)
+![coul2](./could2.jpeg)
 
 ## We love french food
 
