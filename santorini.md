@@ -5,7 +5,7 @@ Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's 
 ## Stunning sunset
 
 My photo of a beautiful sunset and just in time for my fav cruise ship Celebrity X (I did a cruise in Scandinavia & Asia in it and  I will so do a blog soon). Santorini is full of outdoor setting clubs which showcase the sunsets and I took this from one of them. Every golden hour ie. 8:20pm for this photo,  the sunset is always different every time.
-> TIP: Avoid the popular sunset lookout. Recommendation is to go to a restaurant for a few drinks before the sunset
+> TIP: Avoid the popular sunset lookouts. Recommendation is to go to a restaurant for a few drinks before the sunset
 ![Octocat](./IMG_5829.jpeg) 
 
 ## White-washed building with blue domes
@@ -17,9 +17,9 @@ Buildings are painted using limestone that is why they look pristine white. Ther
 
 ## Breathtaking views of the caldera (large volcanic crater)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+> Santorini is basically a volcanic crater, with black sand, very fertile land where they can grow grapes for wine.
+![Octocat](./caldera.jpeg)
+![Octocat](./blackbeach.jpeg)
 
 
 
