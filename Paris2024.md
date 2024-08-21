@@ -24,7 +24,7 @@ Overall the olympics was organised but not many volunteers compared to Sydney an
 ![hockey](./hockey.jpeg)
 
 ## The different moods of the Tower
-
+..
 > The Eiffel tower in all its glory
 ![eifle1](./eifel1.jpeg)
 ![eifle2](./eifel2.jpeg)
