@@ -4,7 +4,7 @@ Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's 
 
 ## Stunning sunset
 
-My photo of a beautiful sunset and just in time for my fav cruise ship Celebrity X (I did a cruise in Scandinavia & Asia in it and  I will so do a blog soon). Santorini is full of outdoor setting clubs which showcase the sunsets and I took this from one of them. Every golden hour ie. 8:20pm for this photo,  the sunset is always different every time.
+My photo of a beautiful sunset and just in time for my fav cruise ship Celebrity X (We did a cruise in Scandinavia & Asia in it which deserves another blog maybe). Santorini is full of outdoor setting clubs which showcase the sunsets and I took this from one of them. Every golden hour ie. 8:20pm for this photo,  the sunset is always different every time.
 > TIP: Avoid the popular sunset lookouts. Recommendation is to go to a restaurant for a few drinks before the sunset
 ![Octocat](./IMG_5829.jpeg) 
 
