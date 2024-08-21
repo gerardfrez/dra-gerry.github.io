@@ -29,7 +29,7 @@ Overall the olympics was organised but not many volunteers compared to Sydney an
 ![eifle3](./eifel3.jpeg)
 
 ## The flying cauldron
-> The cauldron does not really have fire but incorporates 40 LED spotlights to illuminate the cloud created by 200 high-pressure misting nozzles.
+> The cauldron does not really have fire but incorporates 40 LED spotlights to illuminate the cloud created by 200 high-pressure misting nozzles. Paris is really living up as the host of the climate agreement.
 ![coul1](./couldron.jpeg)
 ![coul2](./could2.jpeg)
 
