@@ -15,6 +15,15 @@ The show is a consolidation of live, pre-recorded acts as well as multimedia seq
 > These stairs that we saw was empty but Gaga was singing in the big screens :(
 ![gaga](./gaga.jpeg)
 
+## Events we watched
+
+Overall the olympics was organised but not many volunteers compared to Sydney and because the French love their language so much there were no subtitles in the pre-opening talks.
+> The beach volleyball was done very near the Tower, while the badminton & hockey, we have to ride trains to go to the venues
+![volley](./volley.jpeg)
+![badmin](./badmin.jpeg)
+![hockey](./hockey.jpeg)
+
+
 ```
 End of page
 ```
