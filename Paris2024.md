@@ -26,8 +26,14 @@ Overall the olympics was organised but not many volunteers compared to Sydney an
 ## The different moods of the Tower
 ..
 > The Eiffel tower in all its glory
-![eifle1](./eifel1.jpeg)
 ![eifle2](./eifel2.jpeg)
+![eifle2](./eifel1.jpeg)
+
+## We love french food
+
+> Some of our favourites
+![onion](./onion.jpeg)
+![pastry](./pastry.jpeg)
 
 ```
 End of page
