@@ -25,5 +25,5 @@ Buildings are painted using limestone that is why they look pristine white. Ther
 
 
 ```
-End of page
+End of page but pls click your browser's back buttom to see more
 ```
