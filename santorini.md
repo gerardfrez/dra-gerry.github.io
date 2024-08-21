@@ -20,7 +20,7 @@ Buildings are painted using limestone that is why they look pristine white. Ther
 > Santorini is basically a volcanic crater, with black sand, very fertile land where they can grow grapes for wine.
 ![Octocat](./caldera.jpeg)
 ![Octocat](./blackbeach.jpeg)
-
+![Octocat](./fira.jpeg)
 
 
 
