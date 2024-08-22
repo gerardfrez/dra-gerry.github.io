@@ -2,7 +2,7 @@
 
 # Welcome to my travel blog
 
-Just want to share some highlights of my travels. These are candid & informal captures of my thoughts & photos which may interest you & give you a bit of information about places & other things during my travel
+I've finally completed my first travel blog which was prompted by your interests of my recent 3-weeks travel in Europe. My familyo share some highlights of my travels. These are candid & informal captures of my thoughts & photos which may interest you & give you a bit of information about places & other things during my travel
 
 # Places that I travelled (from latest)
 
