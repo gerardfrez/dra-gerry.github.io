@@ -40,5 +40,5 @@ Overall the olympics was organised but not many volunteers compared to Sydney an
 ![pastry](./pastry.jpeg)
 
 ```
-End of page but click [HERE](./athens.md). to go back to main menu
+End of page but click ![HERE](./index.md). to go back to main menu
 ```
