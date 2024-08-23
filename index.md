@@ -11,9 +11,9 @@ I've finally completed my first travel blog which was prompted by your interests
 2. [Santorini](./santorini.md).
 3. [Athens](./athens.md).
 4. [Dubrovnik](./dubrovnik.md).
-5. [More to come]
+5. [More to come - my previous travels if there is a demand]
 
 
 ```
-End of page. Thanks.
+End of page
 ```
