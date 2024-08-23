@@ -39,6 +39,8 @@ Overall the olympics was organised but not many volunteers compared to Sydney an
 ![onion](./onion.jpeg)
 ![pastry](./pastry.jpeg)
 
+Please click ![HERE](./index.md). to go back to main menu
+
 ```
 End of page but click ![HERE](./index.md). to go back to main menu
 ```
