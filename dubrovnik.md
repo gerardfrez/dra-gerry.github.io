@@ -26,6 +26,8 @@ Dubrovnik’s old town is famous for its beautiful churches, palaces, and the im
 > The heat has caused me to lose my appetite but this restaurant was air conditioned so I really enjoyed it.
 ![nik1](./dubrFood.jpeg)
 
+[CLICK ME](./index.md) to go back to main menu
+
 ```
 End of page
 ```
