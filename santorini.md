@@ -22,8 +22,8 @@ Buildings are painted using limestone that is why they look pristine white. Ther
 ![Octocat](./blackbeach.jpeg)
 ![Octocat](./fira.jpeg)
 
-
+[CLICK ME](./index.md) to go back to main menu
 
 ```
-End of page but pls click your browser's back buttom to see more
+End of page
 ```
