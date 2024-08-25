@@ -5,7 +5,7 @@ Athens is a city rich in history and culture. Often considered the birthplace of
 ## Parthenon on the Acropolis
 
 The Parthenon is a magnificent marble temple located on the Acropolis and it was dedicated to Athena Parthenos, the Greek goddess of wisdom and war. The Parthenon is renowned for its Doric architecture, featuring a rectangular floor plan, a colonnade of fluted columns, and intricate sculptures. Despite enduring centuries of damage, it remains a powerful symbol of ancient Greek culture and architectural brilliance.
-> TIP: A recently built museum beside the Parthenon must not be missed because it displays amazing artefacts from Acropolis. Tickets for the Parthenon includes the entrance to the new museum.
+> TIP: A recently built museum beside the Parthenon must not be missed because it displays amazing artefacts from Acropolis.
 ![open1](./parthe1.jpeg)
 ![openFra](./nik2.jpeg)
 ![openFra](./parthe2.jpeg)
