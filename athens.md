@@ -4,15 +4,15 @@ Athens is a city rich in history and culture. Often considered the birthplace of
 
 ## Parthenon on the Acropolis
 
-The Parthenon is a magnificent marble temple located on the Acropolis and it was dedicated to Athena Parthenos, the Greek goddess of wisdom and war. The Parthenon is renowned for its Doric architecture, featuring a rectangular floor plan, a colonnade of fluted columns, and intricate sculptures and Despite enduring centuries of damage, it remains a powerful symbol of ancient Greek culture and architectural brilliance.
-> TIP: A recently built museum beside the Parthenon must not be missed because it contains artefacts from Acropolis.
+The Parthenon is a magnificent marble temple located on the Acropolis and it was dedicated to Athena Parthenos, the Greek goddess of wisdom and war. The Parthenon is renowned for its Doric architecture, featuring a rectangular floor plan, a colonnade of fluted columns, and intricate sculptures. Despite enduring centuries of damage, it remains a powerful symbol of ancient Greek culture and architectural brilliance.
+> TIP: A recently built museum beside the Parthenon must not be missed because it displays amazing artefacts from Acropolis. Tickets for the Parthenon includes the entrance to the new museum.
 ![open1](./parthe1.jpeg)
 ![openFra](./nik2.jpeg)
 ![openFra](./parthe2.jpeg)
 
 ## The Panathenaic Stadium 
 
-This stadium hosted the opening and closing ceremonies of the first modern Olympics in 1896 and It is the finishing point for the annual Athens Classic Marathon. It is also the last venue in Greece from where the Olympic flame handover ceremony to the host nation takes place.
+This stadium hosted the opening and closing ceremonies of the first modern Olympics in 1896 and it is the finishing point for the annual Athens Classic Marathon. It is also the last venue in Greece from where the Olympic flame handover ceremony to the host nation takes place.
 > The only stadium in the world built entirely of marble.
 ![open1](./stadium.jpeg)
 
