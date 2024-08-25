@@ -12,13 +12,13 @@ What's unique with the opening ceremony is that it was not done in a stadium but
 ## Where's Lady Gaga?
 
 The show is a consolidation of live, pre-recorded acts as well as multimedia sequenced to show France's culture, fashion & lifestyle which was smartly connected & presented in big screens along the river.
-> These stairs that we saw was empty but Gaga was singing & dancing on them in the big screens at that same time :(
+> These stairs near where we were was empty when Gaga was singing & dancing on them in the big screens, so it was pre-recorded :(
 ![gaga](./gaga.jpeg)
 
 ## Events we watched
 
-Overall the olympics was organised but not many volunteers compared to Sydney and because the French love their language so much there were no subtitles in the pre-opening talks.
-> The beach volleyball was done very near the Tower, while the badminton & hockey, we have to ride trains to go to the venues
+Overall the olympics was organised but there were not many volunteers compared to Sydney. The French also love their language so much there were no subtitles in the pre-opening talks and not easy to communicate in english.
+> The beach volleyball's venue was right beside the Tower, while the badminton & hockey needs to travel by trains to go to the venues
 ![volley](./volley.jpeg)
 ![badmin](./badmin.jpeg)
 ![hockey](./hockey.jpeg)
@@ -29,13 +29,13 @@ Overall the olympics was organised but not many volunteers compared to Sydney an
 ![eifle3](./eifel3.jpeg)
 
 ## The flying cauldron
-> The cauldron does not really have fire but incorporates 40 LED spotlights to illuminate the cloud created by 200 high-pressure misting nozzles. Paris is really living up as the host of the climate agreement.
+> The cauldron does not really have fire but incorporates 40 LED spotlights to illuminate the cloud created by 200 high-pressure misting nozzles. Paris is really living up to it's name as the host of the climate agreement.
 ![coul1](./couldron.jpeg)
 ![coul2](./could2.jpeg)
 
 ## We love french food
 
-> Some of our favourites
+> Just some of our favourites, french onion soup & pastries.
 ![onion](./onion.jpeg)
 ![pastry](./pastry.jpeg)
 
