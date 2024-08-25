@@ -4,20 +4,20 @@ Santorini is a beautiful island located in the Aegean Sea, part of Greece. It's 
 
 ## Stunning sunset
 
-My photo of a beautiful sunset and just in time for my fav cruise ship Celebrity X (We did a cruise in Scandinavia & Asia in it which deserves another blog maybe). Santorini is full of outdoor setting clubs which showcase the sunsets and I took this from one of them. Every golden hour ie. 8:20pm for this photo,  the sunset is always different every time.
-> TIP: Avoid the popular sunset lookouts. Recommendation is to go to a restaurant for a few drinks before the sunset
+My photo of a beautiful sunset and just in time for my fav cruise ship Celebrity X (we did a cruise in Scandinavia & Asia in it which deserves another blog maybe?). Santorini is full of outdoor setting clubs which showcase the sunsets and this was taken from one of them. During the golden hour ie. 8:20pm for this photo,  the sunset is always different every time.
+> TIP: Avoid the popular sunset lookouts because it is very crowded. Recommendation is to go to a restaurant with a good viewing area and have a few drinks before the sunset.
 ![Octocat](./IMG_5829.jpeg) 
 
 ## White-washed building with blue domes
 
 Buildings are painted using limestone that is why they look pristine white. There are really not many blue domes as shown in the photos below. 
-> TIP: These places with good views are always full of people during sunset so secure a place early before the sunset.
+> TIP: These places with good views are always full of people during sunset so secure a place early way before before the sunset.
 ![Octocat](./blue1.jpeg)
 ![Octocat](./blue2.jpeg)
 
 ## Breathtaking views of the caldera (large volcanic crater)
 
-> Santorini is basically a volcanic crater, with black sand, very fertile land where they can grow grapes for wine.
+> Santorini is basically a volcanic crater, with black sand and a very fertile land where they can grow grapes for a unique tasting wine.
 ![Octocat](./caldera.jpeg)
 ![Octocat](./blackbeach.jpeg)
 ![Octocat](./fira.jpeg)
