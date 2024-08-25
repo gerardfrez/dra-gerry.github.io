@@ -21,7 +21,7 @@ Buildings are painted using limestone that is why they look pristine white. Ther
 ![Octocat](./caldera.jpeg)
 > A black beach in Perissa where we ate a nice greek lunch.
 ![Octocat](./blackbeach.jpeg)
-> This maps shows how the volcano after eruptions transformed into a caldera, a large depression formed when a volcano erupts and collapses.
+> This maps shows how Santorini is transformed into a caldera, a large depression formed when a volcano erupts and collapses.
 ![Octocat](./fira.jpeg)
 
 [CLICK ME](./index.md) to go back to main menu
