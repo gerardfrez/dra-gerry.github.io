@@ -6,7 +6,7 @@ Dubrovnik, often called the “Pearl of the Adriatic,” is a stunning city loca
 ## The stunning old town
 
 Dubrovnik’s old town is famous for its beautiful churches, palaces, and the impressive city walls that offer breathtaking views of the sea.
-> It’s also known for being a filming location for the TV series “Game of Thrones,” where it represented the fictional city of King’s Landing. It is a "must" to walk around the wall of the city and the following photos I got shows how beautiful this place is. Note that the first photo is a map showing the walls around the city, where we walked under a 35C sun!
+> It’s also known for being a filming location for the TV series “Game of Thrones,” where it represented the fictional city of King’s Landing. It is a "must" to walk around the walls of the city because of the different beautiful viewpoints and the following photos shows what I mean. Note that the first photo is a map showing the walls around the city, where we walked under a 35C sun!
 ![nik1](./walledCity.jpeg)
 > Incidentally, this map also shows the bombing spots when Dubrovnik experienced a significant and tragic event known as the Siege of Dubrovnik. This was part of the Croatian War of Independence. Croatia is one of the countries that became independent when Yugoslavia broke up due to political and economic crises, along with rising ethnic tensions. Other countries are Bosnia and Herzegovina, North Macedonia, Montenegro, Serbia & Slovenia.
 ![nik1](./nik1.jpeg)
@@ -18,7 +18,7 @@ Dubrovnik’s old town is famous for its beautiful churches, palaces, and the im
 
 ## The famous stairs of the "walk of shame"
 
-> It's amazing how cinematography can transform this place during the 8 seasons of the "Game of Thrones". The king's seat decorated with swords & blades are in an island which you need to ferry to. The one that I (and other people) will always remember in this series is how bad the finale was.
+> It's amazing how cinematography can transform this place to look majestic during the 8 seasons of the "Game of Thrones". The king's seat decorated with swords & blades are in an island which you need to ferry to. The one that I (and other people) will always remember in this series is how bad the finale was.
 ![nik1](./walkS.jpeg)
 
 ## We enjoyed the very fresh seafood 
